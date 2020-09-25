@@ -1,2 +1,2 @@
 # Certificates
-All those certificates I have achieved uptill now.
+All those certificates I have achieved till now.
